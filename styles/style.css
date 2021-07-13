@@ -90,6 +90,12 @@ hr{
     grid-template-columns: repeat(3, 1fr);
     grid-column-gap: 24px;
 }
+.course{
+    box-shadow: 1px 1px 20px lightgray;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}
 .course .course-banner img{
     width: 224px;
     height: 104px;
